@@ -1,1 +1,1 @@
-# PracticalFoundationAI
+# Practical Foundation AI
